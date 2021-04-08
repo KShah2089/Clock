@@ -1,3 +1,3 @@
 # Clock
-Beginner-friendly Cupcake Clock
+Beginner-friendly Cupcake Clock;
 Task 3 of SUTT Recruitments
